@@ -1,6 +1,6 @@
 # keepyourcount
 
-A new Flutter application.
+A new Flutter application which helps to keep count of multiple things simultaneosly. 
 
 ## Getting Started
 
